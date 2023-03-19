@@ -8,8 +8,8 @@
     "start": "nodemon server.js",
     "server": "node server.js",
     "data:import": "node seeder.js",
-    "dev":"node server.js",
-    "build":"npm install"
+    "dev": "node server.js",
+    "build": "npm install"
   },
   "author": "",
   "license": "ISC",
